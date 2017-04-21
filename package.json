@@ -1,0 +1,12 @@
+{
+  "name": "virtual-ta",
+  "version": "0.0.1",
+  "description": "A service that collates course documents from blackboard, and posts announcements to slack, among other things.",
+  "main": "index.js",
+  "repository": "https://github.com/quarkw/virtual-ta.git",
+  "contributors": [
+    "Quark Wei <quark.j.wei@gmail.com>",
+    "Stuart Geipel"
+  ],
+  "license": "GPL"
+}
